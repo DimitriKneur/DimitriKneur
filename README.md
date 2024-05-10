@@ -75,5 +75,8 @@ Would you like to take a look at the code for all my projects? You can do so by 
 <a href='https://app-eu1.hubspot.com/academy/achievements/0cnhd883/en/1/dimitri-kneur/hubspot-cms-for-marketers' title='HubSpot Content Hub For Marketers'>
 <img width="256px" src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/164c5f4d8b48434dab5be47d14765f0e.png' />
 </a>
+<a href='https://verify.skilljar.com/c/cp6ruaygmvre'>
+<img width="256px" src='' />
+</a>
 </p>
 <!-- End: HubSpot Academy - HubSpot Content Hub For Marketers Badge -->
