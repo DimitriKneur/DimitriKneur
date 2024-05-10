@@ -81,7 +81,7 @@ You can do so by clicking on this link, which will take you to an inventory of a
 <img width="235px" src='https://github.com/DimitriKneur/DimitriKneur/blob/main/Dataiku_certificate_Dimitri_Kneur.png' />
 </a>
 <a href='https://skillshop.credential.net/d502643a-af89-47a9-a443-a7e2d9ad7e1f'>
-<img width="226px" src='https://github.com/DimitriKneur/DimitriKneur/blob/main/Google_analytics_certificate_Dimitri_Kneur.png' />
+<img width="227px" src='https://github.com/DimitriKneur/DimitriKneur/blob/main/Google_analytics_certificate_Dimitri_Kneur.png' />
 </a>
 </p>
 <!-- End: HubSpot Academy - HubSpot Content Hub For Marketers Badge -->
