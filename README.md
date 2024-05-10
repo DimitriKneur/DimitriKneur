@@ -29,9 +29,28 @@ Now, embarked on a fantastic journey through the exciting world of the dataverse
 
 Do you have a question about my career? A proposal for a project? Don't hesitate to contact me!
 
+<br>
+
+## </> Programming languages
+
+<br>
+
+<p align="center">
+	<img width="8%" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img width="8%" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## 💪🏾 Skills
+
+↔️ Using APIs
+🌐 Web Scraping (scrapy, selenium, BeautifulSoup)
+🔧 Data transformation
+🔍 Data exploration
+📊 Data visualization
+
 <!--
-Programming languages
-Skills
 Portfolio link
 Stack
 Certifications
