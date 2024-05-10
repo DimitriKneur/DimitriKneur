@@ -45,13 +45,27 @@ Do you have a question about my career? A proposal for a project? Don't hesitate
 ## 💪🏾 Skills
 
 ↔️ Using APIs
+
 🌐 Web Scraping (scrapy, selenium, BeautifulSoup)
+
 🔧 Data transformation
+
 🔍 Data exploration
+
 📊 Data visualization
 
-<!--
-Portfolio link
-Stack
-Certifications
--->
+<br>
+
+## 🗂️ Project Portfolio
+
+Would you like to take a look at the code for all my projects? You can do so by clicking on this link, which will take you to an inventory of all my work!
+
+<br>
+
+## 💻 Data stack
+
+<img style="padding:2px" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br>
+
+## 🥇 Certifications
