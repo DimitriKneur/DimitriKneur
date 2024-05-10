@@ -5,7 +5,7 @@
 <p align="center">
   <a href=""><img width="32px" alt="Resume" title="Resume" src=""></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Portfolio" title="Portfolio" src=""></a>
+  <a href="https://github.com/DimitriKneur/DimitriKneur/blob/main/portfolio.png"><img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/DimitriKneur/DimitriKneur/blob/main/portfolio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://fr.linkedin.com/in/dimitri-kneur-audencia"><img width="32px" alt="LinkedIn" title="LinkedIn"
   src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
