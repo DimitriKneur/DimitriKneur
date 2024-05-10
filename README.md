@@ -44,9 +44,7 @@ Do you have a question about my career? A proposal for a project? Don't hesitate
 
 ## 💪🏾 Skills
 
-↔️ Using APIs
-
-🌐 Web Scraping (scrapy, selenium, BeautifulSoup)
+🌐 Data Collection (APIs, Web Scraping)
 
 🔧 Data transformation
 
