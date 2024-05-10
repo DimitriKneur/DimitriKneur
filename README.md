@@ -3,15 +3,16 @@
 </p>
 
 <p align="center">
-  <a href=""><img width="32px" alt="Resume" title="Resume" src=""></a>
+  <a href="https://github.com/DimitriKneur/DimitriKneur/blob/main/cv.png"><img width="32px" alt="Resume" title="Resume" src="https://github.com/DimitriKneur/DimitriKneur/blob/main/cv.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/DimitriKneur/DimitriKneur/blob/main/portfolio.png"><img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/DimitriKneur/DimitriKneur/blob/main/portfolio.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fr.linkedin.com/in/dimitri-kneur-audencia"><img width="32px" alt="LinkedIn" title="LinkedIn"
-  src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+  <a href="https://github.com/DimitriKneur/DimitriKneur/blob/main/portfolio.png"><img width="32px" alt="Portfolio" title="Portfolio" 
+  src="https://github.com/DimitriKneur/DimitriKneur/blob/main/portfolio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Website" title="Website" 
   src="https://cdn-icons-png.flaticon.com/512/5339/5339159.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://fr.linkedin.com/in/dimitri-kneur-audencia"><img width="32px" alt="LinkedIn" title="LinkedIn"
+  src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:dimitri.kneur@protonmail.com" alt="Mail" title="Mail">
   <img width="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"/></a>
