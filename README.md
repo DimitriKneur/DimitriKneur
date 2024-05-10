@@ -21,8 +21,15 @@
 
 ## ℹ️ About me
 
+My name is Dimitri Kneur. I'm a business school graduate with 3 years' experience in auditing and management control.
+
+I recently decided to move into the data field to develop new skills. So I followed a bootcamp-style training course in data analysis for several months, and now find myself embarked on an exciting journey through the dataverse.
+
+I'm now ready to put my analytical skills to work for a data-driven company.
+
+Do you have a question about my career? A proposal for a project? Don't hesitate to contact me!
+
 <!--
-Short bio
 Programming languages
 Skills
 Portfolio link
