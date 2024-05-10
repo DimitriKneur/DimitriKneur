@@ -58,7 +58,9 @@ Do you have a question about my career? A proposal for a project? Don't hesitate
 
 ## 🗂️ Project Portfolio
 
-Would you like to take a look at the code for all my projects? You can do so by clicking on this link, which will take you to an inventory of all my work!
+Would you like to take a look at the code for all my projects?
+
+You can do so by clicking on this link, which will take you to an inventory of all my work!
 
 <br>
 
