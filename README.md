@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DimitriKneur/DimitriKneur/blob/main/cv.png"><img width="32px" alt="Resume" title="Resume" src="https://github.com/DimitriKneur/DimitriKneur/blob/main/cv.png"></a>
+  <a href="https://github.com/DimitriKneur/DimitriKneur/blob/main/Dimitri%20Kneur%20Data%20Analyst%20enhanced%20CV%20FR%20V2.pdf"><img width="32px" alt="Resume" title="Resume" src="https://github.com/DimitriKneur/DimitriKneur/blob/main/cv.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/DimitriKneur/Data-Projects/blob/main/README.md"><img width="32px" alt="Portfolio" title="Portfolio" 
   src="https://github.com/DimitriKneur/DimitriKneur/blob/main/portfolio.png"></a>
