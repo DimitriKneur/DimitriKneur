@@ -58,13 +58,13 @@ Do you have a question about my career? A proposal for a project? Don't hesitate
 
 Would you like to take a look at the code for all my projects?
 
-You can do so by clicking on this link, which will take you to an inventory of all my work!
+You can do so by clicking on [this link](https://github.com/DimitriKneur/Data-Projects/blob/main/README.md), which will take you to an inventory of all my work!
 
 <br>
 
 ## 💻 Data stack
 
-<img style="padding:2px" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img style="padding:2px" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/> <img width="100px" style="padding:2px" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br>
 
