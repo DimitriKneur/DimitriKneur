@@ -72,9 +72,7 @@ You can do so by clicking on [this link](https://github.com/DimitriKneur/Data-Pr
 
 
 <p align="center">
-<a href='https://www.credential.net/adb9ecdf-6739-4d26-88a9-77d13742a208#gs.96kiv4' >
-<img width="396px" src='https://github.com/DimitriKneur/DimitriKneur/blob/main/Diplome.png' />
-</a>
+<img width="792px" src='https://github.com/DimitriKneur/DimitriKneur/blob/main/Diplome.png' />
 </p>
 
 <br>
