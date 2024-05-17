@@ -84,6 +84,18 @@ Here is a snapshot of the projetcs I have been working on :
 
 <br>
 
+[World Population Evolution's Analysis](https://github.com/DimitriKneur/World-Population-Evolution-Project/tree/main) : Analyze the evolution of the world population from 2000 to 2021, and understand its drivers.
+
+<br>
+
+<p align="center">
+<img width="594px" src='https://github.com/DimitriKneur/World-Population-Evolution-Project/blob/main/Presentation/World_Population_Evolution_Snapshot.gif' />
+</p>
+
+<br>
+
+<br>
+
 Would you like to take a look at the code for all my projects?
 
 You can do so by clicking on [this link](https://github.com/DimitriKneur/Data-Projects/blob/main/README.md), which will take you to an inventory of all my work!
