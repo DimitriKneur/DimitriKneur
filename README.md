@@ -56,14 +56,26 @@ Do you have a question about my career? A proposal for a project? Don't hesitate
 
 ## 🗂️ Project Portfolio
 
+Here is a snapshot of the projetcs I have been working on :
+
 <br>
 
-[Global Electronics Retailer Dashboard](https://github.com/DimitriKneur/Global-Electronics-Retailer-Analysis) : Make an interactive sales dashboard for a Global Electronics Retailer, with extended filtering possibilities.
+[Global Electronics Retailer Dashboard](https://github.com/DimitriKneur/Global-Electronics-Retailer-Analysis) : Make an interactive Power BI sales dashboard for a Global Electronics Retailer, with extended filtering possibilities.
 
 <br>
 
 <p align="center">
 <img width="594px" src='https://github.com/DimitriKneur/Global-Electronics-Retailer-Analysis/blob/main/3_PowerBI_Dashboard/Retail_Dashboard_Snapshot.gif' />
+</p>
+
+<br>
+
+[Analysis of the Catalog of Netflix](https://github.com/DimitriKneur/Netflix-Catalog-Analysis-PowerBI) : Analyze the composition of the catalog of Netflix at the end of 2021 with Power BI.
+
+<br>
+
+<p align="center">
+<img width="594px" src='https://github.com/DimitriKneur/Netflix-Catalog-Analysis-PowerBI/blob/main/Netflix_Catalog_Presentation_Snapshot.gif' />
 </p>
 
 <br>
