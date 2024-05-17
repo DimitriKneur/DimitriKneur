@@ -56,6 +56,18 @@ Do you have a question about my career? A proposal for a project? Don't hesitate
 
 ## 🗂️ Project Portfolio
 
+<br>
+
+[Global Electronics Retailer Dashboard](https://github.com/DimitriKneur/Global-Electronics-Retailer-Analysis) : Make an interactive sales dashboard for a Global Electronics Retailer, with extended filtering possibilities.
+
+<br>
+
+<p align="center">
+<img width="594px" src='https://github.com/DimitriKneur/Global-Electronics-Retailer-Analysis/blob/main/3_PowerBI_Dashboard/Retail_Dashboard_Snapshot.gif' />
+</p>
+
+<br>
+
 Would you like to take a look at the code for all my projects?
 
 You can do so by clicking on [this link](https://github.com/DimitriKneur/Data-Projects/blob/main/README.md), which will take you to an inventory of all my work!
@@ -64,7 +76,8 @@ You can do so by clicking on [this link](https://github.com/DimitriKneur/Data-Pr
 
 ## 💻 Data stack
 
-<img style="padding:2px" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/> <img width="100px" style="padding:2px" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img style="padding:2px" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/> <img width="100px" style="padding:2px" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/> <img style="padding:2px" style="padding:2px" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=black"/> <img style="padding:2px" src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=black"/> <img style="padding:2px" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=black"/> <img style="padding:2px" src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=black"/>
+
 
 <br>
 
