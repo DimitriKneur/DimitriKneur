@@ -65,7 +65,7 @@ Here is a snapshot of the projetcs I have been working on :
 <br>
 
 <p align="center">
-<img width="594px" src='https://github.com/DimitriKneur/Global-Electronics-Retailer-Analysis/blob/main/3_PowerBI_Dashboard/Retail_Dashboard_Snapshot.gif' />
+<img width="480px" src='https://github.com/DimitriKneur/Global-Electronics-Retailer-Analysis/blob/main/3_PowerBI_Dashboard/Retail_Dashboard_Snapshot.gif' />
 </p>
 
 <br>
@@ -77,7 +77,7 @@ Here is a snapshot of the projetcs I have been working on :
 <br>
 
 <p align="center">
-<img width="594px" src='https://github.com/DimitriKneur/Netflix-Catalog-Analysis-PowerBI/blob/main/Netflix_Catalog_Presentation_Snapshot.gif' />
+<img width="480px" src='https://github.com/DimitriKneur/Netflix-Catalog-Analysis-PowerBI/blob/main/Netflix_Catalog_Presentation_Snapshot.gif' />
 </p>
 
 <br>
@@ -89,7 +89,19 @@ Here is a snapshot of the projetcs I have been working on :
 <br>
 
 <p align="center">
-<img width="594px" src='https://github.com/DimitriKneur/World-Population-Evolution-Project/blob/main/Presentation/World_Population_Evolution_Snapshot.gif' />
+<img width="480px" src='https://github.com/DimitriKneur/World-Population-Evolution-Project/blob/main/Presentation/World_Population_Evolution_Snapshot.gif' />
+</p>
+
+<br>
+
+<br>
+
+[Streamlit App. - Le Louvre Museum Artworks interactive list](https://github.com/DimitriKneur/Le-Louvre-works-of-art-on-display/tree/main) : Show the artworks currently on display at the Louvre Museum in an interactive way thanks to a streamlit application.
+
+<br>
+
+<p align="center">
+<img width="480px" src='https://github.com/DimitriKneur/Le-Louvre-works-of-art-on-display/blob/main/Demo_streamlit_le_louvre.gif' />
 </p>
 
 <br>
