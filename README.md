@@ -135,10 +135,13 @@ You can do so by clicking on [this link](https://github.com/DimitriKneur/Data-Pr
 <!-- Begin: HubSpot Academy - HubSpot Content Hub For Marketers Badge -->
 <p align="center">
 <a href='https://www.credential.net/adb9ecdf-6739-4d26-88a9-77d13742a208#gs.96kiv4' >
-<img width="396px" src='https://github.com/DimitriKneur/DimitriKneur/blob/main/Jedha_fullstack_certification_Dimitri_Kneur.png' />
+<img width="262px" src='https://github.com/DimitriKneur/DimitriKneur/blob/main/Jedha_fullstack_certification_Dimitri_Kneur.png' />
 </a>
-<a href='https://www.credential.net/3ac5cf48-2190-489d-a939-200d040597fd#gs.96ks7c' >
-<img width="393px" src='https://github.com/DimitriKneur/DimitriKneur/blob/main/Bloc_6_data_certification_Dimitri_Kneur.png' />
+<a href='https://www.credential.net/468ce088-e7db-411f-9853-2e694930e91f#gs.9r5wba' >
+<img width="262px" src='Bloc_2_certification.png' />
+</a>
+<a href='https://github.com/DimitriKneur/DimitriKneur/blob/main/Bloc_6_data_certification_Dimitri_Kneur.png' >
+<img width="262px" src='https://github.com/DimitriKneur/DimitriKneur/blob/main/Bloc_6_data_certification_Dimitri_Kneur.png' />
 </a>
 <a href='https://app-eu1.hubspot.com/academy/achievements/0cnhd883/en/1/dimitri-kneur/hubspot-cms-for-marketers' title='HubSpot Content Hub For Marketers'>
 <img width="325px" src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/164c5f4d8b48434dab5be47d14765f0e.png' />
