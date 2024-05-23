@@ -23,7 +23,7 @@
 
 My name is Dimitri Kneur. I'm a business school graduate with 3 years' experience in auditing and management control.
 
-I recently decided to move into the data field to develop new skills. So I followed a bootcamp-type training course in data analysis for several months. During this training, I collaborated with my colleagues on numerous data projects and learned to master SQL, Python, Power BI and many other tools.
+In order to become a Data Analyst, I followed an intensive training program to master SQL, Python, Power BI and many other tools.
 
 Now, embarked on a fantastic journey through the dataverse, I'm ready to put my analytical skills to work for a data-driven company.
 
