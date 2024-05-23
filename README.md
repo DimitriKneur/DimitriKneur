@@ -8,7 +8,7 @@
   <a href="https://github.com/DimitriKneur/Data-Projects/blob/main/README.md"><img width="32px" alt="Portfolio" title="Portfolio" 
   src="https://github.com/DimitriKneur/DimitriKneur/blob/main/portfolio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Website" title="Website" 
+  <a href="https://dimitri-kneur.streamlit.app/"><img width="32px" alt="Website" title="Website" 
   src="https://cdn-icons-png.flaticon.com/512/5339/5339159.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://fr.linkedin.com/in/dimitri-kneur-audencia"><img width="32px" alt="LinkedIn" title="LinkedIn"
