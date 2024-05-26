@@ -101,7 +101,7 @@ Here is a snapshot of the projetcs I have been working on :
 <br>
 
 <p align="center">
-<img width="480px" src='https://github.com/DimitriKneur/Le-Louvre-works-of-art-on-display/blob/main/Demo_streamlit_le_louvre.gif' />
+<img width="480px" src='https://github.com/DimitriKneur/Le-Louvre-works-of-art-on-display/blob/main/Demo_streamlit_le_louvre_2.gif' />
 </p>
 
 <br>
